@@ -1,25 +1,24 @@
 ### Welcome to my profile!
 
 ## About Me: 
-- ✨ Age: 18
-- 🇸🇻 Ethnicity: Salvadoran American 
-- ⭐ Future Career: Web Designer 
+- ✨ Age: 19
+- 🇸🇻 Nationality: Salvadoran American 
+- ⭐ Future Career: Web Designer or Web Developer 
 - 🧠 Learning About: I’m currently learning about interface design and web development!
 - 😄 Pronouns: She/Her 
-- 🐸 Fun Fact: I ***ADORE*** frogs so much, possibly the same way I love cats a lot (not excluding my love for dogs of course)
+- 🐸 Fun Fact: I ***adore*** frogs so much, possibly the same way I love cats a lot (not excluding my love for dogs of course)
+- 🎨 Fun Fact #2: I also have a passion for art so you may hear me ramble a lot about different topics of art from time to time
 
 ## Hobbies
-- **Learn about Art History and Explore Art**
-- **Listen to Music**
-- **Obsess over Stuffed Animals**
-- **Bake Pastries and Desserts**
-- **Create Graphics for Personal Projects**
-![frog-plush](https://user-images.githubusercontent.com/89945327/150229825-b47c9834-7345-4dfe-b221-94efd901a279.jpg)
-
-***Here is an example of a stuffed animal that I WOULD love to have!***
+- **Learning about various topics about Art**
+- **Listening to Music**
+- **Collecting Stuffed Animals**
+- **Baking Desserts**
+- **Creating Graphics**
+- **Watching TV Shows and reading Graphic Novels**
 
 ## Skills
-- HTML and CSS; I will be learning about Javascript soon!
+- HTML, CSS, and Javascript; Will be reinforcing these skills soon!
 
 ## Links 
 Here is an [About Me](https://about-me-payalazelaya.netlify.app/) website that I created in Web Development I at RVCC; I'm proud to have made this actually 😊
