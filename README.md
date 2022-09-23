@@ -22,3 +22,8 @@
 
 ## Links 
 Here is an [About Me](https://about-me-payalazelaya.netlify.app/) website that I created in Web Development I at RVCC; I'm proud to have made this actually 😊
+
+## Badges
+I recently [discovered my typographic superpower](https://game.fonts.adobe.com/) and found out that my superpower is: 
+
+![funky-superpower-xs](https://user-images.githubusercontent.com/89945327/192060267-e365d2ab-5e69-4421-a4c1-71d5de2496e8.png)
