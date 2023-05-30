@@ -1,10 +1,9 @@
 ### Welcome to my profile!
 
 ## About Me: 
-- ✨ Age: 19
+- ✨ Age: 20
 - 🇸🇻 Nationality: Salvadoran American 
 - ⭐ Future Career: Web Designer or Web Developer 
-- 🧠 Learning About: I’m currently learning about interface design and web development!
 - 😄 Pronouns: She/Her 
 - 🐸 Fun Fact: I ***adore*** frogs so much, possibly the same way I love cats a lot (not excluding my love for dogs of course)
 - 🎨 Fun Fact #2: I also have a passion for art so you may hear me ramble a lot about different topics of art from time to time
@@ -15,10 +14,10 @@
 - **Collecting Stuffed Animals**
 - **Baking Desserts**
 - **Creating Graphics**
-- **Watching TV Shows and reading Graphic Novels**
+- **Watching shows and reading graphic novels**
 
-## Skills
-- HTML, CSS, and Javascript; Will be reinforcing these skills soon!
+## Languages I Know
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Links 
 Here is an [About Me](https://about-me-payalazelaya.netlify.app/) website that I created in Web Development I at RVCC; I'm proud to have made this actually 😊
