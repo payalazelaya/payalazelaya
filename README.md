@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/Her 
 - 🇸🇻 Nationality: Salvadoran American 
 - ⭐ Future Career: Web Designer or Web Developer 
-- 🎓 Education: Community College graduate with an A.S. in Interface Design & Web Development
+- 🎓 Education: Community College graduate with an A.S. in Interface Design & Web Development; Current Student at Rutgers University majoring in Information Technology & Informatics 
 - 🐱 Fun Fact: I adore both cats and frogs a lot (not excluding my love for dogs of course)
 - 🎨 Fun Fact #2: I also have a passion for art so you may hear me ramble a lot about different topics of art from time to time
 
