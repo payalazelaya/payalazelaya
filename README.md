@@ -5,12 +5,11 @@
 - 😄 Pronouns: She/Her 
 - 🇸🇻 Nationality: Salvadoran American 
 - ⭐ Future Career: Web Designer or Web Developer 
-- 🎓 Education: Community College graduate with an A.S. in Interface Design & Web Development; Current Student at Rutgers University majoring in Information Technology & Informatics 
+- 🎓 Education: Community College graduate with an A.S. in Interface Design & Web Development; Current Student at Rutgers University - New Brunswick majoring in Information Technology & Informatics and minoring in Latino & Caribbean Studies
 - 🐱 Fun Fact: I adore both cats and frogs a lot (not excluding my love for dogs of course)
-- 🎨 Fun Fact #2: I also have a passion for art so you may hear me ramble a lot about different topics of art from time to time
+- 🎨 Fun Fact #2: I'm passionate about art so you may hear me ramble a lot about my appreciation for it time to time
 
 ## Hobbies
-- **Learning about Art**
 - **Listening to Music**
 - **Collecting Stuffed Animals**
 - **Baking Desserts**
@@ -18,7 +17,7 @@
 - **Watching shows and reading graphic novels**
 
 ## Languages I Know
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS5](https://img.shields.io/badge/css5-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS5](https://img.shields.io/badge/css5-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Portfolio
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://payazelaya.netlify.app/)
