@@ -7,7 +7,7 @@
 - ⭐ Future Career: Web Designer or Web Developer 
 - 🎓 Education: Community College graduate with an A.S. in Interface Design & Web Development; Current Student at Rutgers University - New Brunswick majoring in Information Technology & Informatics and minoring in Latino & Caribbean Studies
 - 🐱 Fun Fact: I adore both cats and frogs a lot (not excluding my love for dogs of course)
-- 🎨 Fun Fact #2: I'm passionate about art so you may hear me ramble a lot about my appreciation for it time to time
+- 🎨 Fun Fact #2: I'm passionate about art so you may hear me ramble a lot about it from time to time
 
 ## Hobbies
 - **Listening to Music**
